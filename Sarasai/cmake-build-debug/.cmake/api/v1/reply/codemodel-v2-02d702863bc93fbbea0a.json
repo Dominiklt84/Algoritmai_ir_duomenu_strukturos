@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sarasai",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Sarasai::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sarasai-Debug-d7cb1646a5f9eb65cdc4.json",
+					"name" : "Sarasai",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/dalen/OneDrive/Dokumenty/VIKO EIF/Algoritmai_ir_duomenu_strukturos/Sarasai/cmake-build-debug",
+		"source" : "C:/Users/dalen/OneDrive/Dokumenty/VIKO EIF/Algoritmai_ir_duomenu_strukturos/Sarasai"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
