@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\dalen\OneDrive\Dokumenty\VIKO EIF\Algoritmai_ir_duomenu_strukturos\2_kontrolinis_darbas_n2 Select CMakeLists.txt
