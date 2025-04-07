@@ -1,0 +1,3 @@
+C:/Users/Marek/Documents/GitHub/Algoritmai_ir_duomenu_strukturos/3_kontrolinis_darbas/cmake-build-debug/CMakeFiles/3_kontrolinis_darbas.dir
+C:/Users/Marek/Documents/GitHub/Algoritmai_ir_duomenu_strukturos/3_kontrolinis_darbas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Marek/Documents/GitHub/Algoritmai_ir_duomenu_strukturos/3_kontrolinis_darbas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

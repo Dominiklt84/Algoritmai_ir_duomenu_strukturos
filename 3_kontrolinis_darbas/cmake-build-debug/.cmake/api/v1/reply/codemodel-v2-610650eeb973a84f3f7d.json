@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3_kontrolinis_darbas",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3_kontrolinis_darbas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3_kontrolinis_darbas-Debug-17b7fadb196f6da0581a.json",
+					"name" : "3_kontrolinis_darbas",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Marek/Documents/GitHub/Algoritmai_ir_duomenu_strukturos/3_kontrolinis_darbas/cmake-build-debug",
+		"source" : "C:/Users/Marek/Documents/GitHub/Algoritmai_ir_duomenu_strukturos/3_kontrolinis_darbas"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
