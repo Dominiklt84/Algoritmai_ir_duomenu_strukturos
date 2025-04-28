@@ -1,3 +1,6 @@
+//Sukurti dinamini vienkrypti sarasa, realizuojant elemento iterpimo, pasalinimo,
+//spausdinimo bei paieskos funkcijas. Perkelti to saraso visus elementus i AVL medi.
+//Atspausdinti visus AVL medzio elementus.
 #include <iostream>
 
 using namespace std;
@@ -18,7 +21,7 @@ sarasas* pabaiga = nullptr;
 Medis* medis = nullptr;
 
 void iterpti_pradzia(int elementas);
-int pasalinti_elementa_pradzia();
+bool pasalinti_konkrecia_reiksme(int reiksme);
 void spausdinti_sarasa();
 sarasas* rasti_elementa(int reiksme);
 Medis* sarasas_i_avl();
@@ -53,10 +56,12 @@ int main() {
             break;
 
             case 2:
-                if (pradzia != nullptr)
-                    cout << "Pasalintas elementas: " << pasalinti_elementa_pradzia() << endl;
-                else
-                    cout << "Sarasas tuscias." << endl;
+                cout << "Iveskite kokia reiksme norite pasalinti: ";
+            cin >> reiksme;
+            if (pasalinti_konkrecia_reiksme(reiksme))
+                cout << "Elementas sekmingai pasalintas." << endl;
+            else
+                cout << "Tokios reiksmes sarase nera." << endl;
             break;
 
             case 3:
@@ -105,14 +110,30 @@ void iterpti_pradzia(int elementas) {
     if (pabaiga == nullptr) pabaiga = el;
 }
 
-int pasalinti_elementa_pradzia() {
-    if (pradzia == nullptr) return -1;
-    sarasas* el = pradzia;
-    int sal = el->duom;
-    pradzia = pradzia->kitas;
-    if (pradzia == nullptr) pabaiga = nullptr;
-    delete el;
-    return sal;
+bool pasalinti_konkrecia_reiksme(int reiksme) {
+    if (pradzia == nullptr) return false;
+
+    if (pradzia->duom == reiksme) {
+        sarasas* temp = pradzia;
+        pradzia = pradzia->kitas;
+        if (temp == pabaiga) pabaiga = nullptr;
+        delete temp;
+        return true;
+    }
+
+    sarasas* dabartinis = pradzia;
+    while (dabartinis->kitas != nullptr) {
+        if (dabartinis->kitas->duom == reiksme) {
+            sarasas* salinamas = dabartinis->kitas;
+            dabartinis->kitas = salinamas->kitas;
+            if (salinamas == pabaiga)
+                pabaiga = dabartinis;
+            delete salinamas;
+            return true;
+        }
+        dabartinis = dabartinis->kitas;
+    }
+    return false;
 }
 
 void spausdinti_sarasa() {
