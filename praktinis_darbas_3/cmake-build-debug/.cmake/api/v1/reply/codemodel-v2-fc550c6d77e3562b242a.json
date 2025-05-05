@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "praktinis_darbas_3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "praktinis_darbas_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-praktinis_darbas_3-Debug-12697b77205bea9154c1.json",
+					"name" : "praktinis_darbas_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Marek/Documents/GitHub/Algoritmai_ir_duomenu_strukturos/praktinis_darbas_3/cmake-build-debug",
+		"source" : "C:/Users/Marek/Documents/GitHub/Algoritmai_ir_duomenu_strukturos/praktinis_darbas_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
