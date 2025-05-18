@@ -1,0 +1,27 @@
+# ninja log v6
+22	1291	7689316637176650	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+1295	1479	7689316649897357	Merge_sort.exe	ed2339feb20eaac
+16	1057	7689319811248152	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+1058	1205	7689319821671877	Merge_sort.exe	ed2339feb20eaac
+23	1429	7689381345189198	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+1431	1634	7689381359258519	Merge_sort.exe	ed2339feb20eaac
+43	1524	7689381669287316	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+1525	1695	7689381684106485	Merge_sort.exe	ed2339feb20eaac
+12	1419	7689382548006184	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+1420	1570	7689382562084841	Merge_sort.exe	ed2339feb20eaac
+192	4148	7690260272290420	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+4150	4630	7690260311864926	Merge_sort.exe	ed2339feb20eaac
+11	2443	7690327913782183	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+2444	2595	7690327938102144	Merge_sort.exe	ed2339feb20eaac
+11	2070	7690340440625175	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+2071	2233	7690340461232186	Merge_sort.exe	ed2339feb20eaac
+12	2125	7690343932200878	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+2126	2280	7690343953333322	Merge_sort.exe	ed2339feb20eaac
+14	2933	7690358991887089	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+2935	3103	7690359021098489	Merge_sort.exe	ed2339feb20eaac
+11	2258	7690363250306073	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+2259	2406	7690363272799110	Merge_sort.exe	ed2339feb20eaac
+11	2141	7690366507125761	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+2142	2295	7690366528429726	Merge_sort.exe	ed2339feb20eaac
+12	2077	7690373977073144	CMakeFiles/Merge_sort.dir/main.cpp.obj	6d38c3a42db2db11
+2078	2223	7690373997740518	Merge_sort.exe	ed2339feb20eaac
