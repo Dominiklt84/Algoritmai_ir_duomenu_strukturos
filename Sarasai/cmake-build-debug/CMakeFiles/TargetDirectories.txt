@@ -1,3 +1,3 @@
-C:/Users/dalen/OneDrive/Dokumenty/VIKO EIF/Algoritmai_ir_duomenu_strukturos/Sarasai/cmake-build-debug/CMakeFiles/Sarasai.dir
-C:/Users/dalen/OneDrive/Dokumenty/VIKO EIF/Algoritmai_ir_duomenu_strukturos/Sarasai/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dalen/OneDrive/Dokumenty/VIKO EIF/Algoritmai_ir_duomenu_strukturos/Sarasai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Owner/Documents/GitHub/Algoritmai_ir_duomenu_strukturos/Sarasai/cmake-build-debug/CMakeFiles/Sarasai.dir
+C:/Users/Owner/Documents/GitHub/Algoritmai_ir_duomenu_strukturos/Sarasai/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Owner/Documents/GitHub/Algoritmai_ir_duomenu_strukturos/Sarasai/cmake-build-debug/CMakeFiles/rebuild_cache.dir

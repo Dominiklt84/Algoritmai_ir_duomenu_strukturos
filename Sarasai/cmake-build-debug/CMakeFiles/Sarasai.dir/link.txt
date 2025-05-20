@@ -1,0 +1,3 @@
+"D:\Programs\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Sarasai.dir/objects.a
+D:\Programs\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\Sarasai.dir/objects.a @CMakeFiles\Sarasai.dir\objects1.rsp
+D:\Programs\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Sarasai.dir/objects.a -Wl,--no-whole-archive -o Sarasai.exe -Wl,--out-implib,libSarasai.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sarasai.dir\linkLibs.rsp
